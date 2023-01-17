@@ -1,0 +1,15 @@
+{
+    "name": "kat/builderfactory1",
+    "autoload": {
+        "psr-4": {
+            "KAT\\Builderfactory1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ScottGalang",
+            "email": "galang.scottrylee@auf.edu.ph"
+        }
+    ],
+    "require": {}
+}
